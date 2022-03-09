@@ -6,3 +6,6 @@
 - vscode
 - bash
  
+ # conditions 
+
+ - vscode
