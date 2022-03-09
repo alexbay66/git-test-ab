@@ -14,4 +14,8 @@
  gi
  tout con le loup
 
+## Conclusion 
+
+- terminal
+- github
  
