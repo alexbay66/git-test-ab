@@ -9,3 +9,6 @@
  # conditions 
 
  - vscode
+
+ - cc c bo la vi
+ gi
